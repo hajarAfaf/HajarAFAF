@@ -31,11 +31,14 @@
 | **[NeuroTremor](https://github.com/hajarAfaf)** | Motor tremor analysis & abnormal movement quantification from real-time video streams. | `Python` `OpenCV` `Machine Learning` `Flask` |
 | **[Network Complexity Analyzer](https://github.com/hajarAfaf)** | Graph reduction algorithms bypassed Kirchhoff's $O(N^3)$ matrix complexity to compute spanning trees ($\tau$) & entropy ($\rho$). | `Python` `NetworkX` `Pandas` `Graph Theory` |
 | **[Gocce de Charme](https://github.com/hajarAfaf/Gocce_De_Charme)** | Full-stack e-commerce web platform with cloud NoSQL database. | `Python` `Flask` `MongoDB Atlas` `JavaScript` |
-| **[Digital Comm Simulator](https://github.com/hajarAfaf)** | Complete audio digital transmission chain over AWGN channel with BPSK & GUI. | `Python` `SciPy` `DSP` `Tkinter` |
+
 ---
 
 ### Tech Stack & Tooling
-Deep Learning & Vision   ├── PyTorch • TensorFlow • OpenCV • MediaPipe • Scikit-learn
-Systems & Edge AI        ├── Raspberry Pi • Linux (systemd, bash) • Git • Docker
-Languages                ├── Python • SQL • C++ • JavaScript • HTML5/CSS3
-Backend & Data           ├── Flask • MongoDB Atlas • REST APIs • Pandas • NetworkX
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Deep Learning & Vision** | `PyTorch` `TensorFlow` `OpenCV` `MediaPipe` `Scikit-learn` |
+| **Edge AI & Systems** | `Raspberry Pi` `Linux (systemd, bash)` `Git` `Docker` |
+| **Languages** | `Python` `SQL` `C++` `JavaScript` `HTML5/CSS3` |
+| **Backend & Data** | `Flask` `MongoDB Atlas` `REST APIs` `Pandas` `NetworkX` |
