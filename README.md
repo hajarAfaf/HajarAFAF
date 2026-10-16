@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hajar AFAF 👋
+# Hi, I'm Hajar AFAF 
 ### AI & Computer Vision Specialist | M.Sc. Graduate in Applied Artificial Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-afaf)
@@ -15,15 +15,15 @@
 
 ---
 
-### 🔬 Core Research & Focus Areas
-- 👁️ **Computer Vision & Medical Imaging:** Retinal pathology detection, video analytics, kinematic movement analysis.
-- 🧠 **Trustworthy & Explainable AI (XAI):** Model calibration, saliency mapping, uncertainty estimation.
-- ⚡ **Edge AI & Embedded Systems:** Standalone assistive technologies running on edge hardware (Raspberry Pi).
-- 🕸️ **Graph Theory & Algorithmic Optimization:** Asymptotic complexity and structural reduction methods.
+### Core Research & Focus Areas
+- **Computer Vision & Medical Imaging:** Retinal pathology detection, video analytics, kinematic movement analysis.
+- **Trustworthy & Explainable AI (XAI):** Model calibration, saliency mapping, uncertainty estimation.
+- **Edge AI & Embedded Systems:** Standalone assistive technologies running on edge hardware (Raspberry Pi).
+- **Graph Theory & Algorithmic Optimization:** Asymptotic complexity and structural reduction methods.
 
 ---
 
-### 🚀 Featured Repositories
+### Featured Repositories
 
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
@@ -34,4 +34,4 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
