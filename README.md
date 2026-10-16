@@ -35,3 +35,7 @@
 ---
 
 ### Tech Stack & Tooling
+Deep Learning & Vision   ├── PyTorch • TensorFlow • OpenCV • MediaPipe • Scikit-learn
+Systems & Edge AI        ├── Raspberry Pi • Linux (systemd, bash) • Git • Docker
+Languages                ├── Python • SQL • C++ • JavaScript • HTML5/CSS3
+Backend & Data           ├── Flask • MongoDB Atlas • REST APIs • Pandas • NetworkX
