@@ -31,7 +31,7 @@
 | **[NeuroTremor](https://github.com/hajarAfaf)** | Motor tremor analysis & abnormal movement quantification from real-time video streams. | `Python` `OpenCV` `Machine Learning` `Flask` |
 | **[Network Complexity Analyzer](https://github.com/hajarAfaf)** | Graph reduction algorithms bypassed Kirchhoff's $O(N^3)$ matrix complexity to compute spanning trees ($\tau$) & entropy ($\rho$). | `Python` `NetworkX` `Pandas` `Graph Theory` |
 | **[Gocce de Charme](https://github.com/hajarAfaf/Gocce_De_Charme)** | Full-stack e-commerce web platform with cloud NoSQL database. | `Python` `Flask` `MongoDB Atlas` `JavaScript` |
-
+| **[Digital Comm Simulator](https://github.com/hajarAfaf)** | Complete audio digital transmission chain over AWGN channel with BPSK & GUI. | `Python` `SciPy` `DSP` `Tkinter` |
 ---
 
 ### Tech Stack & Tooling
